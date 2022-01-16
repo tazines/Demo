@@ -1,4 +1,5 @@
 name: Java Continous Integration
+
 on: [push]
 
 jobs:
